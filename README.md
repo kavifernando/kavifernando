@@ -20,6 +20,13 @@
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](https://angular.io/)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://www.postgresql.org/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+
 <!-- Add more icons for your tech stack as needed -->
 
 ### Tech Stack
