@@ -26,6 +26,7 @@
 [![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+[![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)](https://www.postman.com/)
 
 <!-- Add more icons for your tech stack as needed -->
 
