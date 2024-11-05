@@ -57,10 +57,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavifernando&langs_count=10&layout=compact&theme=dark&hide_border=true)
 
-![Chanthuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavifernando&show_icons=true&hide_border=true&theme=dark)
 
 ### Contribution Graph
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavifernando&theme=dark)
+
+
+![Chanthuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavifernando&show_icons=true&hide_border=true&theme=dark)
+
 
 
 ### Popular Repositories
