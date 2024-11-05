@@ -55,9 +55,13 @@
 
 ### By the way here are some of my statistics 📊
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavifernando&langs_count=10&layout=compact&theme=dark&hide_border=true)
+
 ![Chanthuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavifernando&show_icons=true&hide_border=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavifernando&langs_count=10&layout=compact&theme=dark&hide_border=true)
+### Contribution Graph
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavifernando&theme=dark)
+
 
 ### Popular Repositories
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vish-mv&repo=HearLink&theme=dark)](https://github.com/vish-mv/HearLink)
@@ -65,7 +69,6 @@
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavifernando&repo=anotherrepo&theme=dark)](https://github.com/kavifernando/anotherrepo)
 <!-- List other popular repositories as needed -->
 
-### Contribution Graph
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavifernando&theme=dark)
+
 
 
