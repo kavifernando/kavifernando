@@ -69,7 +69,7 @@
 ### Popular Repositories
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vish-mv&repo=HearLink&theme=dark)](https://github.com/vish-mv/HearLink)
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavifernando&repo=anotherrepo&theme=dark)](https://github.com/kavifernando/anotherrepo)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavifernando&repo=anotherrepo&theme=dark)](https://github.com/roosri/navigo_crm)
 <!-- List other popular repositories as needed -->
 
 
