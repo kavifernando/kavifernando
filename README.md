@@ -6,7 +6,13 @@
 🌱 I'm Chanthuki Fernando, a tech enthusiast passionate about software development and continuous learning.
 
 - 💼 Currently working as a **Software Engineering Intern** at **SITS**.
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/chanthuki-fernando) | [Email](mailto:your-email@example.com)
+- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/chanthuki-fernando-9a0008257/) | [Email](mailto:chanthukifernando.com)
+
+### Connect with me:
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/chanthuki-fernando-9a0008257/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:chanthukifernando.com)
+
 
 ### Languages and Tools:
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
