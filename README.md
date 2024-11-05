@@ -23,7 +23,7 @@
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
 [![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](https://angular.io/)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
-[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
