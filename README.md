@@ -1,11 +1,11 @@
 # Hi, I'm [Chanthuki Fernando] 👋 😄
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=kavifernando&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
-🌱 I'm [Your Name], a tech enthusiast passionate about [Technologies you specialize in] like [Example: Web Development, AI, etc.].
+🌱 I'm [chanthuki Fernando], a tech enthusiast passionate about [Technologies you specialize in] like [Example: Web Development, AI, etc.].
 
-- 🌐 Currently working at [Your Company] as a [Your Role].
+- 🌐 Currently working at [SITS] as a [Software Engineering Intern].
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com) 
 
 ### Languages and Tools:
