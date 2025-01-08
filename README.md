@@ -59,7 +59,7 @@
 
 
 ### Contribution Graph
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavifernando&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kavifernando&theme=dark)
 
 
 ![Chanthuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavifernando&show_icons=true&hide_border=true&theme=dark)
